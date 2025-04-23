@@ -1,0 +1,6 @@
+train: "C:/Users/MY PC/Desktop/Me/My_Projects/S2/EOC2/Data_Eoc/train/images"
+val: "C:/Users/MY PC/Desktop/Me/My_Projects/S2/EOC2/Data_Eoc/valid/images"
+test: "C:/Users/MY PC/Desktop/Me/My_Projects/S2/EOC2/Data_Eoc/test/images"
+
+nc: 2
+names: ['Fist', 'Palm']
